@@ -1,16 +1,13 @@
-## Hi there 👋
+## Rida Sbaa
 
-<!--
-**ridasbaa/ridasbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineering student at 42 Network**.  
 
-Here are some ideas to get you started:
+I am passionate about **low-level programming** and technologies such as:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C
+- C++
+- C#
+- .NET
+- …and more!
+
+Feel free to connect with me here on GitHub!
