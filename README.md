@@ -7,7 +7,7 @@ Exploring **C, C++**, and beyond — with a focus on clean, well‑documented co
 ---
 
 ## Interests
-- Systems programming & memory management  
+- Systems programming & system design 
 - Cross‑platform development (desktop, web, mobile)  
 - Open‑source collaboration  
 
